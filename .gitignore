@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+students.db
+.DS_Store
